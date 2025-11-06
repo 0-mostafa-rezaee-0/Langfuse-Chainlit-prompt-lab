@@ -25,14 +25,6 @@ LANGFUSE_SECRET_KEY=sk-xxxx
 LANGFUSE_HOST=https://cloud.langfuse.com
 ```
 
-You can copy the template:
-
-```bash
-cp .env.example .env
-```
-
-Then edit `.env` and replace the placeholder values with your actual keys.
-
 ## 3. Run
 
 Start the Chainlit application:
