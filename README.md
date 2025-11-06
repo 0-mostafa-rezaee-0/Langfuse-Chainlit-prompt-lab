@@ -1,6 +1,6 @@
-<h1 align="center">LangFuse + Chainlit POC</h1>
+<h1 align="center">POC: LangFuse + Chainlit</h1>
 
-This is a minimal proof-of-concept connecting Chainlit with LangFuse for prompt tracking and observability.
+This is a proof-of-concept connecting Chainlit with LangFuse for prompt tracking and observability.
 
 ## 1. Overview
 
